@@ -1,0 +1,22 @@
+{
+  "user_123": {
+    "user_id": "user_123",
+    "name": "Rahul",
+    "target": "Frontend Developer",
+    "current_phase": "JavaScript Basics",
+    "completed_topics": ["Variables", "Loops", "Functions"],
+    "pending_topics": ["Promises", "Async/Await", "DOM Manipulation"],
+    "streak": 5,
+    "last_studied": "2024-01-15"
+  },
+  "user_456": {
+    "user_id": "user_456",
+    "name": "Priya",
+    "target": "Backend Developer",
+    "current_phase": "Python Advanced",
+    "completed_topics": ["Basics", "OOP", "File Handling", "APIs", "Databases"],
+    "pending_topics": ["Testing"],
+    "streak": 12,
+    "last_studied": "2024-01-15"
+  }
+}
